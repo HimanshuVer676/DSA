@@ -7,10 +7,12 @@ It consist of basic to advance DSA questions and their solution
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HimanshuVer676/DSA/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/HimanshuVer676/DSA/tree/master/0071-simplify-path) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HimanshuVer676/DSA/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/HimanshuVer676/DSA/tree/master/0071-simplify-path) |
 ## Linked List
 |  |
 | ------- |
