@@ -29,6 +29,7 @@ It consist of basic to advance DSA questions and their solution
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/HimanshuVer676/DSA/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HimanshuVer676/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Dynamic Programming
 |  |
@@ -38,4 +39,8 @@ It consist of basic to advance DSA questions and their solution
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/HimanshuVer676/DSA/tree/master/0234-palindrome-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/HimanshuVer676/DSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
