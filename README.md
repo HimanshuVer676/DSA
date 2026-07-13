@@ -30,6 +30,7 @@ It consist of basic to advance DSA questions and their solution
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HimanshuVer676/DSA/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/HimanshuVer676/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HimanshuVer676/DSA/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HimanshuVer676/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Dynamic Programming
@@ -39,6 +40,7 @@ It consist of basic to advance DSA questions and their solution
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/HimanshuVer676/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HimanshuVer676/DSA/tree/master/0027-remove-element) |
 | [0234-palindrome-linked-list](https://github.com/HimanshuVer676/DSA/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
