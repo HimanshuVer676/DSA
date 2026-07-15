@@ -33,6 +33,7 @@ It consist of basic to advance DSA questions and their solution
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HimanshuVer676/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HimanshuVer676/DSA/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HimanshuVer676/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/HimanshuVer676/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HimanshuVer676/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Dynamic Programming
 |  |
@@ -43,6 +44,7 @@ It consist of basic to advance DSA questions and their solution
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HimanshuVer676/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HimanshuVer676/DSA/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/HimanshuVer676/DSA/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/HimanshuVer676/DSA/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
@@ -60,4 +62,8 @@ It consist of basic to advance DSA questions and their solution
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/HimanshuVer676/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/HimanshuVer676/DSA/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
