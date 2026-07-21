@@ -34,6 +34,7 @@ It consist of basic to advance DSA questions and their solution
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HimanshuVer676/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HimanshuVer676/DSA/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HimanshuVer676/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0054-spiral-matrix](https://github.com/HimanshuVer676/DSA/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/HimanshuVer676/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/HimanshuVer676/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HimanshuVer676/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -83,10 +84,15 @@ It consist of basic to advance DSA questions and their solution
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/HimanshuVer676/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/HimanshuVer676/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HimanshuVer676/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/HimanshuVer676/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/HimanshuVer676/DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
