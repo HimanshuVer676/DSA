@@ -8,6 +8,7 @@ It consist of basic to advance DSA questions and their solution
 | ------- |
 | [0020-valid-parentheses](https://github.com/HimanshuVer676/DSA/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/HimanshuVer676/DSA/tree/master/0071-simplify-path) |
+| [0394-decode-string](https://github.com/HimanshuVer676/DSA/tree/master/0394-decode-string) |
 ## Stack
 |  |
 | ------- |
@@ -15,6 +16,7 @@ It consist of basic to advance DSA questions and their solution
 | [0071-simplify-path](https://github.com/HimanshuVer676/DSA/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HimanshuVer676/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/HimanshuVer676/DSA/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/HimanshuVer676/DSA/tree/master/0394-decode-string) |
 ## Linked List
 |  |
 | ------- |
@@ -29,6 +31,7 @@ It consist of basic to advance DSA questions and their solution
 | [0021-merge-two-sorted-lists](https://github.com/HimanshuVer676/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/HimanshuVer676/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/HimanshuVer676/DSA/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/HimanshuVer676/DSA/tree/master/0394-decode-string) |
 ## Array
 |  |
 | ------- |
