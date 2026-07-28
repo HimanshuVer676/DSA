@@ -15,6 +15,7 @@ It consist of basic to advance DSA questions and their solution
 | [0020-valid-parentheses](https://github.com/HimanshuVer676/DSA/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/HimanshuVer676/DSA/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HimanshuVer676/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0232-implement-queue-using-stacks](https://github.com/HimanshuVer676/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/HimanshuVer676/DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/HimanshuVer676/DSA/tree/master/0394-decode-string) |
 ## Linked List
@@ -103,4 +104,12 @@ It consist of basic to advance DSA questions and their solution
 | ------- |
 | [0054-spiral-matrix](https://github.com/HimanshuVer676/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/HimanshuVer676/DSA/tree/master/0059-spiral-matrix-ii) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/HimanshuVer676/DSA/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/HimanshuVer676/DSA/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
