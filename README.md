@@ -15,6 +15,7 @@ It consist of basic to advance DSA questions and their solution
 | [0020-valid-parentheses](https://github.com/HimanshuVer676/DSA/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/HimanshuVer676/DSA/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HimanshuVer676/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0225-implement-stack-using-queues](https://github.com/HimanshuVer676/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/HimanshuVer676/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/HimanshuVer676/DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/HimanshuVer676/DSA/tree/master/0394-decode-string) |
@@ -108,10 +109,12 @@ It consist of basic to advance DSA questions and their solution
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/HimanshuVer676/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/HimanshuVer676/DSA/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/HimanshuVer676/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/HimanshuVer676/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/HimanshuVer676/DSA/tree/master/0239-sliding-window-maximum) |
 ## Sliding Window
