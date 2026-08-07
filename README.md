@@ -56,12 +56,14 @@ It consist of basic to advance DSA questions and their solution
 | [0217-contains-duplicate](https://github.com/HimanshuVer676/DSA/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/HimanshuVer676/DSA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HimanshuVer676/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0646-maximum-length-of-pair-chain](https://github.com/HimanshuVer676/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/HimanshuVer676/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/HimanshuVer676/DSA/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HimanshuVer676/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0646-maximum-length-of-pair-chain](https://github.com/HimanshuVer676/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,6 +102,7 @@ It consist of basic to advance DSA questions and their solution
 | ------- |
 | [0088-merge-sorted-array](https://github.com/HimanshuVer676/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/HimanshuVer676/DSA/tree/master/0217-contains-duplicate) |
+| [0646-maximum-length-of-pair-chain](https://github.com/HimanshuVer676/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -152,4 +155,12 @@ It consist of basic to advance DSA questions and their solution
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/HimanshuVer676/DSA/tree/master/0141-linked-list-cycle) |
+## Greedy
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/HimanshuVer676/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/HimanshuVer676/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
