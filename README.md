@@ -21,6 +21,7 @@ It consist of basic to advance DSA questions and their solution
 | [0232-implement-queue-using-stacks](https://github.com/HimanshuVer676/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/HimanshuVer676/DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/HimanshuVer676/DSA/tree/master/0394-decode-string) |
+| [0735-asteroid-collision](https://github.com/HimanshuVer676/DSA/tree/master/0735-asteroid-collision) |
 ## Linked List
 |  |
 | ------- |
@@ -57,6 +58,7 @@ It consist of basic to advance DSA questions and their solution
 | [0239-sliding-window-maximum](https://github.com/HimanshuVer676/DSA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HimanshuVer676/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/HimanshuVer676/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+| [0735-asteroid-collision](https://github.com/HimanshuVer676/DSA/tree/master/0735-asteroid-collision) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/HimanshuVer676/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/HimanshuVer676/DSA/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 ## Dynamic Programming
@@ -123,6 +125,7 @@ It consist of basic to advance DSA questions and their solution
 | ------- |
 | [0054-spiral-matrix](https://github.com/HimanshuVer676/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/HimanshuVer676/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0735-asteroid-collision](https://github.com/HimanshuVer676/DSA/tree/master/0735-asteroid-collision) |
 ## Design
 |  |
 | ------- |
