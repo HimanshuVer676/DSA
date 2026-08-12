@@ -18,44 +18,86 @@ class Solution {
             }
         }
 
-        Queue<Integer> q = new LinkedList<>();
+        // Queue<Integer> q = new LinkedList<>();
 
-        ListNode curr = head;
-        while(curr != null){
-            q.add(curr.val);
-            curr = curr.next;
-        }
+        // ListNode curr = head;
+        // while(curr != null){
+        //     q.add(curr.val);
+        //     curr = curr.next;
+        // }
+
+        // int strow = 0;
+        // int stcol = 0;
+        // int endrow = matrix.length-1;
+        // int endcol = matrix[0].length-1;
+        // while(strow <= endrow && stcol <= endcol){
+        //     for(int j=stcol; j<=endcol; j++){
+        //         if(!q.isEmpty()){
+        //             matrix[strow][j] = q.remove();
+        //         }
+        //     }
+        //     for(int i=strow+1; i<=endrow; i++){
+        //         if(!q.isEmpty()){
+        //             matrix[i][endcol] = q.remove();
+        //         }
+        //     }
+        //     for(int j=endcol-1; j>=stcol; j--){
+        //         if(stcol == endcol){
+        //             break;
+        //         }
+        //         if(!q.isEmpty()){
+        //             matrix[endrow][j] = q.remove();
+        //         }
+        //     }
+        //     for(int i=endrow-1; i>=strow+1; i--){
+        //         if(strow == endrow){
+        //             break;
+        //         }
+        //         if(!q.isEmpty()){
+        //             matrix[i][stcol] = q.remove();
+        //         }
+        //     }
+        //     strow++;
+        //     stcol++;
+        //     endrow--;
+        //     endcol--;
+            
+        // }
+
+        // return matrix;
+
 
         int strow = 0;
         int stcol = 0;
         int endrow = matrix.length-1;
         int endcol = matrix[0].length-1;
-        while(strow <= endrow && stcol <= endcol){
-            for(int j=stcol; j<=endcol; j++){
-                if(!q.isEmpty()){
-                    matrix[strow][j] = q.remove();
-                }
+        while(head != null && strow <= endrow && stcol <= endcol){
+            for(int j=stcol; j<=endcol && head != null; j++){
+                matrix[strow][j] = head.val;
+                head = head.next;
             }
-            for(int i=strow+1; i<=endrow; i++){
-                if(!q.isEmpty()){
-                    matrix[i][endcol] = q.remove();
-                }
+
+            for(int i=strow+1; i<=endrow && head != null; i++){
+                matrix[i][endcol] = head.val;
+                head = head.next;
+                
             }
-            for(int j=endcol-1; j>=stcol; j--){
+
+            for(int j=endcol-1; j>=stcol && head != null; j--){
                 if(stcol == endcol){
                     break;
                 }
-                if(!q.isEmpty()){
-                    matrix[endrow][j] = q.remove();
-                }
+                matrix[endrow][j] = head.val;
+                head = head.next;
             }
-            for(int i=endrow-1; i>=stcol+1; i--){
+
+            for(int i=endrow-1; i>=strow+1 && head != null; i--){
                 if(strow == endrow){
                     break;
                 }
-                if(!q.isEmpty()){
-                    matrix[i][stcol] = q.remove();
-                }
+                matrix[i][stcol] = head.val;
+                head = head.next;
+                
             }
             strow++;
             stcol++;
