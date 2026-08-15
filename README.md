@@ -12,6 +12,7 @@ It consist of basic to advance DSA questions and their solution
 | [0387-first-unique-character-in-a-string](https://github.com/HimanshuVer676/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/HimanshuVer676/DSA/tree/master/0394-decode-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/HimanshuVer676/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
+| [3340-check-balanced-string](https://github.com/HimanshuVer676/DSA/tree/master/3340-check-balanced-string) |
 ## Stack
 |  |
 | ------- |
