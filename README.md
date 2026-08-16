@@ -53,6 +53,7 @@ It consist of basic to advance DSA questions and their solution
 | [0059-spiral-matrix-ii](https://github.com/HimanshuVer676/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/HimanshuVer676/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/HimanshuVer676/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/HimanshuVer676/DSA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HimanshuVer676/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HimanshuVer676/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/HimanshuVer676/DSA/tree/master/0088-merge-sorted-array) |
@@ -177,4 +178,12 @@ It consist of basic to advance DSA questions and their solution
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/HimanshuVer676/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/HimanshuVer676/DSA/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/HimanshuVer676/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
