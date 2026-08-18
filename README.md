@@ -39,6 +39,7 @@ It consist of basic to advance DSA questions and their solution
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/HimanshuVer676/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/HimanshuVer676/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/HimanshuVer676/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/HimanshuVer676/DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/HimanshuVer676/DSA/tree/master/0394-decode-string) |
@@ -103,6 +104,7 @@ It consist of basic to advance DSA questions and their solution
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/HimanshuVer676/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/HimanshuVer676/DSA/tree/master/0066-plus-one) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/HimanshuVer676/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
