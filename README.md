@@ -107,6 +107,7 @@ It consist of basic to advance DSA questions and their solution
 | ------- |
 | [0050-powx-n](https://github.com/HimanshuVer676/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/HimanshuVer676/DSA/tree/master/0066-plus-one) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/HimanshuVer676/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/HimanshuVer676/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
