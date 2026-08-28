@@ -70,6 +70,7 @@ It consist of basic to advance DSA questions and their solution
 | [2326-spiral-matrix-iv](https://github.com/HimanshuVer676/DSA/tree/master/2326-spiral-matrix-iv) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/HimanshuVer676/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/HimanshuVer676/DSA/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3467-transform-array-by-parity](https://github.com/HimanshuVer676/DSA/tree/master/3467-transform-array-by-parity) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -119,6 +120,7 @@ It consist of basic to advance DSA questions and their solution
 | [0088-merge-sorted-array](https://github.com/HimanshuVer676/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/HimanshuVer676/DSA/tree/master/0217-contains-duplicate) |
 | [0646-maximum-length-of-pair-chain](https://github.com/HimanshuVer676/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+| [3467-transform-array-by-parity](https://github.com/HimanshuVer676/DSA/tree/master/3467-transform-array-by-parity) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -171,6 +173,7 @@ It consist of basic to advance DSA questions and their solution
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/HimanshuVer676/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/HimanshuVer676/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
+| [3467-transform-array-by-parity](https://github.com/HimanshuVer676/DSA/tree/master/3467-transform-array-by-parity) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
