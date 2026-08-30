@@ -16,36 +16,48 @@
 class Solution {
     
     public boolean isUnivalTree(TreeNode root) {
+        // if(root == null){
+        //     return true;
+        // }
+        // Queue<TreeNode> q = new LinkedList<>();
+        // boolean isTrue = true;
+        // int data = root.val;
+        // q.add(root);
+        // q.add(null);
+        // while(!q.isEmpty()){
+        //     TreeNode curr = q.remove();
+        //     if(curr == null){
+        //         if(q.isEmpty()){
+        //             break;
+        //         }else{
+        //             q.add(null);
+        //         }
+        //     }else{
+        //         if(curr.val != data){
+        //             isTrue = false;
+        //         }
+        //         if(curr.left != null){
+        //             q.add(curr.left);
+        //         }
+        //         if(curr.right != null){
+        //             q.add(curr.right);
+        //         }
+        //     }
+            
+        // }
+        // return isTrue;
+
+        // ----------- DFS ----------
         if(root == null){
             return true;
         }
-        Queue<TreeNode> q = new LinkedList<>();
-        boolean isTrue = true;
-        int data = root.val;
-        q.add(root);
-        q.add(null);
-        while(!q.isEmpty()){
-            TreeNode curr = q.remove();
-            if(curr == null){
-                if(q.isEmpty()){
-                    break;
-                }else{
-                    q.add(null);
-                }
-            }else{
-                if(curr.val != data){
-                    isTrue = false;
-                }
-                if(curr.left != null){
-                    q.add(curr.left);
-                }
-                if(curr.right != null){
-                    q.add(curr.right);
-                }
-            }
-            
+        if(root.left != null && root.val != root.left.val){
+            return false;
         }
-        return isTrue;
+        if(root.right != null && root.val != root.right.val){
+            return false;
+        }
 
+        return isUnivalTree(root.right) && isUnivalTree(root.left); 
     }
 }
