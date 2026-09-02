@@ -211,6 +211,7 @@ It consist of basic to advance DSA questions and their solution
 | [0111-minimum-depth-of-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0226-invert-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0965-univalued-binary-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/HimanshuVer676/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -221,6 +222,7 @@ It consist of basic to advance DSA questions and their solution
 | [0111-minimum-depth-of-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0226-invert-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0965-univalued-binary-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/HimanshuVer676/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Binary Tree
 |  |
 | ------- |
@@ -234,6 +236,7 @@ It consist of basic to advance DSA questions and their solution
 | [0111-minimum-depth-of-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0226-invert-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0965-univalued-binary-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/HimanshuVer676/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
 |  |
 | ------- |
