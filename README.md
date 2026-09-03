@@ -78,6 +78,7 @@ It consist of basic to advance DSA questions and their solution
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HimanshuVer676/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HimanshuVer676/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/HimanshuVer676/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/HimanshuVer676/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 ## Two Pointers
 |  |
@@ -211,6 +212,7 @@ It consist of basic to advance DSA questions and their solution
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/HimanshuVer676/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/HimanshuVer676/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0226-invert-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0965-univalued-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/HimanshuVer676/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -222,6 +224,7 @@ It consist of basic to advance DSA questions and their solution
 | [0104-maximum-depth-of-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/HimanshuVer676/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0226-invert-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0965-univalued-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/HimanshuVer676/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -236,6 +239,7 @@ It consist of basic to advance DSA questions and their solution
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/HimanshuVer676/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/HimanshuVer676/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0226-invert-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0965-univalued-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/HimanshuVer676/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -250,4 +254,8 @@ It consist of basic to advance DSA questions and their solution
 | [0111-minimum-depth-of-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0226-invert-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0965-univalued-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/HimanshuVer676/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
