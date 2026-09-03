@@ -1,0 +1,40 @@
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
+class Solution {
+
+    int diameter = Integer.MIN_VALUE;  // when all the nodes are negative
+
+    public int dfs(TreeNode root){
+        if(root == null){
+            return 0;
+        }
+
+        int lh = dfs(root.left);
+        int rh = dfs(root.right);
+
+        if(lh < 0) lh = 0;
+        if(rh < 0) rh = 0;
+
+        diameter = Math.max(diameter, lh + rh + root.val);
+        return Math.max(lh, rh) + root.val;
+    }
+
+    public int maxPathSum(TreeNode root) {
+        dfs(root);
+
+        return diameter;
+    }
+}
