@@ -215,6 +215,7 @@ It consist of basic to advance DSA questions and their solution
 | [0112-path-sum](https://github.com/HimanshuVer676/DSA/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HimanshuVer676/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/HimanshuVer676/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0965-univalued-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0965-univalued-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/HimanshuVer676/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Depth-First Search
@@ -228,6 +229,7 @@ It consist of basic to advance DSA questions and their solution
 | [0112-path-sum](https://github.com/HimanshuVer676/DSA/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HimanshuVer676/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/HimanshuVer676/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0965-univalued-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0965-univalued-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/HimanshuVer676/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Binary Tree
@@ -244,6 +246,7 @@ It consist of basic to advance DSA questions and their solution
 | [0112-path-sum](https://github.com/HimanshuVer676/DSA/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HimanshuVer676/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/HimanshuVer676/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0965-univalued-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0965-univalued-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/HimanshuVer676/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
@@ -262,4 +265,12 @@ It consist of basic to advance DSA questions and their solution
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HimanshuVer676/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/HimanshuVer676/DSA/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/HimanshuVer676/DSA/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
