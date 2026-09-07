@@ -34,6 +34,7 @@ It consist of basic to advance DSA questions and their solution
 | [0092-reverse-linked-list-ii](https://github.com/HimanshuVer676/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/HimanshuVer676/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HimanshuVer676/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/HimanshuVer676/DSA/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/HimanshuVer676/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/HimanshuVer676/DSA/tree/master/0234-palindrome-linked-list) |
 | [2326-spiral-matrix-iv](https://github.com/HimanshuVer676/DSA/tree/master/2326-spiral-matrix-iv) |
@@ -88,6 +89,7 @@ It consist of basic to advance DSA questions and their solution
 | [0088-merge-sorted-array](https://github.com/HimanshuVer676/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/HimanshuVer676/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HimanshuVer676/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/HimanshuVer676/DSA/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/HimanshuVer676/DSA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/HimanshuVer676/DSA/tree/master/0344-reverse-string) |
 ## Hash Table
@@ -122,6 +124,7 @@ It consist of basic to advance DSA questions and their solution
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/HimanshuVer676/DSA/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/HimanshuVer676/DSA/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/HimanshuVer676/DSA/tree/master/0217-contains-duplicate) |
 | [0646-maximum-length-of-pair-chain](https://github.com/HimanshuVer676/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [3467-transform-array-by-parity](https://github.com/HimanshuVer676/DSA/tree/master/3467-transform-array-by-parity) |
@@ -140,6 +143,7 @@ It consist of basic to advance DSA questions and their solution
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/HimanshuVer676/DSA/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HimanshuVer676/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
 |  |
@@ -273,4 +277,8 @@ It consist of basic to advance DSA questions and their solution
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/HimanshuVer676/DSA/tree/master/0572-subtree-of-another-tree) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/HimanshuVer676/DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
