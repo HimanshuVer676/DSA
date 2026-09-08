@@ -26,6 +26,7 @@ It consist of basic to advance DSA questions and their solution
 | [0234-palindrome-linked-list](https://github.com/HimanshuVer676/DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/HimanshuVer676/DSA/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/HimanshuVer676/DSA/tree/master/0735-asteroid-collision) |
+| [2487-remove-nodes-from-linked-list](https://github.com/HimanshuVer676/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Linked List
 |  |
 | ------- |
@@ -38,6 +39,7 @@ It consist of basic to advance DSA questions and their solution
 | [0206-reverse-linked-list](https://github.com/HimanshuVer676/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/HimanshuVer676/DSA/tree/master/0234-palindrome-linked-list) |
 | [2326-spiral-matrix-iv](https://github.com/HimanshuVer676/DSA/tree/master/2326-spiral-matrix-iv) |
+| [2487-remove-nodes-from-linked-list](https://github.com/HimanshuVer676/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -46,6 +48,7 @@ It consist of basic to advance DSA questions and their solution
 | [0206-reverse-linked-list](https://github.com/HimanshuVer676/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/HimanshuVer676/DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/HimanshuVer676/DSA/tree/master/0394-decode-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/HimanshuVer676/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -132,6 +135,7 @@ It consist of basic to advance DSA questions and their solution
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/HimanshuVer676/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [2487-remove-nodes-from-linked-list](https://github.com/HimanshuVer676/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Matrix
 |  |
 | ------- |
