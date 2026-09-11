@@ -10,23 +10,31 @@
  */
 class Solution {
     public ListNode removeElements(ListNode head, int val) {
+        // if(head == null) return null;
+
+        // ListNode newNode = new ListNode(-1);
+        // ListNode curr = head;
+        // ListNode temp = newNode;
+
+        // while(curr != null){
+        //     if(curr.val == val){
+        //         temp.next = curr.next;
+        //         curr = curr.next;
+        //     }else{
+        //         temp.next = curr;
+        //         temp = temp.next;
+        //         curr = curr.next;
+        //     }
+        // }
+
+        // return newNode.next;
+
+
+        // Recursion
         if(head == null) return null;
+        head.next = removeElements(head.next, val);
+        if(head.val == val) head = head.next;
 
-        ListNode newNode = new ListNode(-1);
-        ListNode curr = head;
-        ListNode temp = newNode;
-
-        while(curr != null){
-            if(curr.val == val){
-                temp.next = curr.next;
-                curr = curr.next;
-            }else{
-                temp.next = curr;
-                temp = temp.next;
-                curr = curr.next;
-            }
-        }
-
-        return newNode.next;
+        return head;
     }
 }
