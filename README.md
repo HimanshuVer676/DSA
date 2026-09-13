@@ -40,6 +40,7 @@ It consist of basic to advance DSA questions and their solution
 | [0206-reverse-linked-list](https://github.com/HimanshuVer676/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/HimanshuVer676/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/HimanshuVer676/DSA/tree/master/0237-delete-node-in-a-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/HimanshuVer676/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2326-spiral-matrix-iv](https://github.com/HimanshuVer676/DSA/tree/master/2326-spiral-matrix-iv) |
 | [2487-remove-nodes-from-linked-list](https://github.com/HimanshuVer676/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
@@ -98,6 +99,7 @@ It consist of basic to advance DSA questions and their solution
 | [0148-sort-list](https://github.com/HimanshuVer676/DSA/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/HimanshuVer676/DSA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/HimanshuVer676/DSA/tree/master/0344-reverse-string) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/HimanshuVer676/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Hash Table
 |  |
 | ------- |
