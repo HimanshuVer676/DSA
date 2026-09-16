@@ -70,6 +70,7 @@ It consist of basic to advance DSA questions and their solution
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HimanshuVer676/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HimanshuVer676/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/HimanshuVer676/DSA/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HimanshuVer676/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HimanshuVer676/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HimanshuVer676/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0217-contains-duplicate](https://github.com/HimanshuVer676/DSA/tree/master/0217-contains-duplicate) |
@@ -154,6 +155,7 @@ It consist of basic to advance DSA questions and their solution
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HimanshuVer676/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/HimanshuVer676/DSA/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HimanshuVer676/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
@@ -227,6 +229,7 @@ It consist of basic to advance DSA questions and their solution
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/HimanshuVer676/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/HimanshuVer676/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HimanshuVer676/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/HimanshuVer676/DSA/tree/master/0112-path-sum) |
@@ -262,6 +265,7 @@ It consist of basic to advance DSA questions and their solution
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/HimanshuVer676/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/HimanshuVer676/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HimanshuVer676/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/HimanshuVer676/DSA/tree/master/0112-path-sum) |
@@ -311,4 +315,5 @@ It consist of basic to advance DSA questions and their solution
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/HimanshuVer676/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HimanshuVer676/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
