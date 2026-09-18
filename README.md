@@ -217,6 +217,7 @@ It consist of basic to advance DSA questions and their solution
 | ------- |
 | [0039-combination-sum](https://github.com/HimanshuVer676/DSA/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/HimanshuVer676/DSA/tree/master/0078-subsets) |
+| [0113-path-sum-ii](https://github.com/HimanshuVer676/DSA/tree/master/0113-path-sum-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -236,6 +237,7 @@ It consist of basic to advance DSA questions and their solution
 | [0110-balanced-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/HimanshuVer676/DSA/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/HimanshuVer676/DSA/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HimanshuVer676/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -252,6 +254,7 @@ It consist of basic to advance DSA questions and their solution
 | [0110-balanced-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/HimanshuVer676/DSA/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/HimanshuVer676/DSA/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HimanshuVer676/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -273,6 +276,7 @@ It consist of basic to advance DSA questions and their solution
 | [0110-balanced-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/HimanshuVer676/DSA/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/HimanshuVer676/DSA/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HimanshuVer676/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
