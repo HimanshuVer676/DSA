@@ -77,6 +77,7 @@ It consist of basic to advance DSA questions and their solution
 | [0217-contains-duplicate](https://github.com/HimanshuVer676/DSA/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/HimanshuVer676/DSA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HimanshuVer676/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/HimanshuVer676/DSA/tree/master/0268-missing-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/HimanshuVer676/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0735-asteroid-collision](https://github.com/HimanshuVer676/DSA/tree/master/0735-asteroid-collision) |
 | [2326-spiral-matrix-iv](https://github.com/HimanshuVer676/DSA/tree/master/2326-spiral-matrix-iv) |
@@ -110,6 +111,7 @@ It consist of basic to advance DSA questions and their solution
 | [0141-linked-list-cycle](https://github.com/HimanshuVer676/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HimanshuVer676/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/HimanshuVer676/DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/HimanshuVer676/DSA/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/HimanshuVer676/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Binary Search
 |  |
@@ -119,11 +121,13 @@ It consist of basic to advance DSA questions and their solution
 | [0074-search-a-2d-matrix](https://github.com/HimanshuVer676/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HimanshuVer676/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HimanshuVer676/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/HimanshuVer676/DSA/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/HimanshuVer676/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/HimanshuVer676/DSA/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/HimanshuVer676/DSA/tree/master/0268-missing-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/HimanshuVer676/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/HimanshuVer676/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/HimanshuVer676/DSA/tree/master/3870-count-commas-in-range) |
@@ -138,6 +142,7 @@ It consist of basic to advance DSA questions and their solution
 | [0088-merge-sorted-array](https://github.com/HimanshuVer676/DSA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/HimanshuVer676/DSA/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/HimanshuVer676/DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/HimanshuVer676/DSA/tree/master/0268-missing-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/HimanshuVer676/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [3467-transform-array-by-parity](https://github.com/HimanshuVer676/DSA/tree/master/3467-transform-array-by-parity) |
 ## Monotonic Stack
@@ -222,6 +227,7 @@ It consist of basic to advance DSA questions and their solution
 |  |
 | ------- |
 | [0078-subsets](https://github.com/HimanshuVer676/DSA/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/HimanshuVer676/DSA/tree/master/0268-missing-number) |
 ## Tree
 |  |
 | ------- |
