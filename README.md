@@ -248,6 +248,7 @@ It consist of basic to advance DSA questions and their solution
 | [0124-binary-tree-maximum-path-sum](https://github.com/HimanshuVer676/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/HimanshuVer676/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/HimanshuVer676/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/HimanshuVer676/DSA/tree/master/0938-range-sum-of-bst) |
@@ -293,6 +294,7 @@ It consist of basic to advance DSA questions and their solution
 | [0124-binary-tree-maximum-path-sum](https://github.com/HimanshuVer676/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/HimanshuVer676/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/HimanshuVer676/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/HimanshuVer676/DSA/tree/master/0938-range-sum-of-bst) |
@@ -342,5 +344,6 @@ It consist of basic to advance DSA questions and their solution
 | [0098-validate-binary-search-tree](https://github.com/HimanshuVer676/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HimanshuVer676/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/HimanshuVer676/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/HimanshuVer676/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/HimanshuVer676/DSA/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
