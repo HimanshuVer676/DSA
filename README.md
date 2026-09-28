@@ -13,6 +13,7 @@ It consist of basic to advance DSA questions and their solution
 | [0387-first-unique-character-in-a-string](https://github.com/HimanshuVer676/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/HimanshuVer676/DSA/tree/master/0394-decode-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/HimanshuVer676/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HimanshuVer676/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3340-check-balanced-string](https://github.com/HimanshuVer676/DSA/tree/master/3340-check-balanced-string) |
 ## Stack
 |  |
@@ -26,6 +27,7 @@ It consist of basic to advance DSA questions and their solution
 | [0234-palindrome-linked-list](https://github.com/HimanshuVer676/DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/HimanshuVer676/DSA/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/HimanshuVer676/DSA/tree/master/0735-asteroid-collision) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HimanshuVer676/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2487-remove-nodes-from-linked-list](https://github.com/HimanshuVer676/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Linked List
 |  |
@@ -350,4 +352,8 @@ It consist of basic to advance DSA questions and their solution
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/HimanshuVer676/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/HimanshuVer676/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/HimanshuVer676/DSA/tree/master/0938-range-sum-of-bst) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HimanshuVer676/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
