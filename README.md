@@ -7,6 +7,7 @@ It consist of basic to advance DSA questions and their solution
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HimanshuVer676/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/HimanshuVer676/DSA/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/HimanshuVer676/DSA/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/HimanshuVer676/DSA/tree/master/0071-simplify-path) |
 | [0344-reverse-string](https://github.com/HimanshuVer676/DSA/tree/master/0344-reverse-string) |
@@ -92,6 +93,7 @@ It consist of basic to advance DSA questions and their solution
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/HimanshuVer676/DSA/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HimanshuVer676/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HimanshuVer676/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HimanshuVer676/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -226,6 +228,7 @@ It consist of basic to advance DSA questions and their solution
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/HimanshuVer676/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/HimanshuVer676/DSA/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/HimanshuVer676/DSA/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/HimanshuVer676/DSA/tree/master/0113-path-sum-ii) |
@@ -355,5 +358,6 @@ It consist of basic to advance DSA questions and their solution
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/HimanshuVer676/DSA/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HimanshuVer676/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
