@@ -15,6 +15,7 @@ It consist of basic to advance DSA questions and their solution
 | [0394-decode-string](https://github.com/HimanshuVer676/DSA/tree/master/0394-decode-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/HimanshuVer676/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HimanshuVer676/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/HimanshuVer676/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3340-check-balanced-string](https://github.com/HimanshuVer676/DSA/tree/master/3340-check-balanced-string) |
 ## Stack
 |  |
@@ -86,6 +87,7 @@ It consist of basic to advance DSA questions and their solution
 | [0268-missing-number](https://github.com/HimanshuVer676/DSA/tree/master/0268-missing-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/HimanshuVer676/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0735-asteroid-collision](https://github.com/HimanshuVer676/DSA/tree/master/0735-asteroid-collision) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/HimanshuVer676/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2326-spiral-matrix-iv](https://github.com/HimanshuVer676/DSA/tree/master/2326-spiral-matrix-iv) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/HimanshuVer676/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/HimanshuVer676/DSA/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
