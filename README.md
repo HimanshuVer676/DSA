@@ -79,6 +79,7 @@ It consist of basic to advance DSA questions and their solution
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HimanshuVer676/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HimanshuVer676/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/HimanshuVer676/DSA/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/HimanshuVer676/DSA/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HimanshuVer676/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HimanshuVer676/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HimanshuVer676/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -237,11 +238,13 @@ It consist of basic to advance DSA questions and their solution
 | [0040-combination-sum-ii](https://github.com/HimanshuVer676/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/HimanshuVer676/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/HimanshuVer676/DSA/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/HimanshuVer676/DSA/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/HimanshuVer676/DSA/tree/master/0113-path-sum-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/HimanshuVer676/DSA/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/HimanshuVer676/DSA/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/HimanshuVer676/DSA/tree/master/0268-missing-number) |
 ## Tree
 |  |
