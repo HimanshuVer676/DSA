@@ -10,6 +10,7 @@ It consist of basic to advance DSA questions and their solution
 | [0022-generate-parentheses](https://github.com/HimanshuVer676/DSA/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/HimanshuVer676/DSA/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/HimanshuVer676/DSA/tree/master/0071-simplify-path) |
+| [0242-valid-anagram](https://github.com/HimanshuVer676/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/HimanshuVer676/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/HimanshuVer676/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/HimanshuVer676/DSA/tree/master/0394-decode-string) |
@@ -128,6 +129,7 @@ It consist of basic to advance DSA questions and their solution
 | [0142-linked-list-cycle-ii](https://github.com/HimanshuVer676/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/HimanshuVer676/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/HimanshuVer676/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/HimanshuVer676/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/HimanshuVer676/DSA/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/HimanshuVer676/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Binary Search
@@ -161,6 +163,7 @@ It consist of basic to advance DSA questions and their solution
 | [0148-sort-list](https://github.com/HimanshuVer676/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/HimanshuVer676/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/HimanshuVer676/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/HimanshuVer676/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/HimanshuVer676/DSA/tree/master/0268-missing-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/HimanshuVer676/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [3467-transform-array-by-parity](https://github.com/HimanshuVer676/DSA/tree/master/3467-transform-array-by-parity) |
