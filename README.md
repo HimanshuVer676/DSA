@@ -81,6 +81,7 @@ It consist of basic to advance DSA questions and their solution
 | [0084-largest-rectangle-in-histogram](https://github.com/HimanshuVer676/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/HimanshuVer676/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/HimanshuVer676/DSA/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HimanshuVer676/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HimanshuVer676/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HimanshuVer676/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HimanshuVer676/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -125,6 +126,7 @@ It consist of basic to advance DSA questions and their solution
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HimanshuVer676/DSA/tree/master/0001-two-sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HimanshuVer676/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/HimanshuVer676/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HimanshuVer676/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/HimanshuVer676/DSA/tree/master/0169-majority-element) |
@@ -183,6 +185,7 @@ It consist of basic to advance DSA questions and their solution
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HimanshuVer676/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HimanshuVer676/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/HimanshuVer676/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/HimanshuVer676/DSA/tree/master/0148-sort-list) |
@@ -268,6 +271,7 @@ It consist of basic to advance DSA questions and their solution
 | [0102-binary-tree-level-order-traversal](https://github.com/HimanshuVer676/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/HimanshuVer676/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HimanshuVer676/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/HimanshuVer676/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HimanshuVer676/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/HimanshuVer676/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -316,6 +320,7 @@ It consist of basic to advance DSA questions and their solution
 | [0102-binary-tree-level-order-traversal](https://github.com/HimanshuVer676/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/HimanshuVer676/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HimanshuVer676/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/HimanshuVer676/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HimanshuVer676/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/HimanshuVer676/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
