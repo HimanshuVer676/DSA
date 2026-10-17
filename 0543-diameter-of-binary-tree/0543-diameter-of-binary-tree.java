@@ -31,8 +31,10 @@ class Solution {
 
         int self = Math.max(lh, rh) + 1;
 
-        int selfdiam = Math.max(lh + rh + 1, Math.max(lh, rh)) - 1;
-        maxDiam = Math.max(maxDiam, selfdiam);
+        // int selfdiam = Math.max(lh + rh + 1, Math.max(lh, rh)) - 1;
+        // maxDiam = Math.max(maxDiam, selfdiam);
+
+        maxDiam = Math.max(maxDiam, lh + rh);
 
         return self;
 
