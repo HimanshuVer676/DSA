@@ -14,6 +14,7 @@ It consist of basic to advance DSA questions and their solution
 | [0344-reverse-string](https://github.com/HimanshuVer676/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/HimanshuVer676/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/HimanshuVer676/DSA/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/HimanshuVer676/DSA/tree/master/0402-remove-k-digits) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/HimanshuVer676/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HimanshuVer676/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/HimanshuVer676/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -29,6 +30,7 @@ It consist of basic to advance DSA questions and their solution
 | [0232-implement-queue-using-stacks](https://github.com/HimanshuVer676/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/HimanshuVer676/DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/HimanshuVer676/DSA/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/HimanshuVer676/DSA/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/HimanshuVer676/DSA/tree/master/0735-asteroid-collision) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HimanshuVer676/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2487-remove-nodes-from-linked-list](https://github.com/HimanshuVer676/DSA/tree/master/2487-remove-nodes-from-linked-list) |
@@ -185,6 +187,7 @@ It consist of basic to advance DSA questions and their solution
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/HimanshuVer676/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/HimanshuVer676/DSA/tree/master/0402-remove-k-digits) |
 | [2487-remove-nodes-from-linked-list](https://github.com/HimanshuVer676/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Matrix
 |  |
@@ -251,6 +254,7 @@ It consist of basic to advance DSA questions and their solution
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HimanshuVer676/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/HimanshuVer676/DSA/tree/master/0402-remove-k-digits) |
 | [0646-maximum-length-of-pair-chain](https://github.com/HimanshuVer676/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/HimanshuVer676/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Longest Increasing Subsequence
