@@ -74,6 +74,7 @@ It consist of basic to advance DSA questions and their solution
 | [0039-combination-sum](https://github.com/HimanshuVer676/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/HimanshuVer676/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/HimanshuVer676/DSA/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/HimanshuVer676/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/HimanshuVer676/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/HimanshuVer676/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/HimanshuVer676/DSA/tree/master/0066-plus-one) |
@@ -158,6 +159,7 @@ It consist of basic to advance DSA questions and their solution
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/HimanshuVer676/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/HimanshuVer676/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/HimanshuVer676/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/HimanshuVer676/DSA/tree/master/0189-rotate-array) |
@@ -192,6 +194,7 @@ It consist of basic to advance DSA questions and their solution
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/HimanshuVer676/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/HimanshuVer676/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/HimanshuVer676/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/HimanshuVer676/DSA/tree/master/0074-search-a-2d-matrix) |
