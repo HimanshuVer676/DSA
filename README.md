@@ -107,6 +107,7 @@ It consist of basic to advance DSA questions and their solution
 | [2326-spiral-matrix-iv](https://github.com/HimanshuVer676/DSA/tree/master/2326-spiral-matrix-iv) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/HimanshuVer676/DSA/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2465-number-of-distinct-averages](https://github.com/HimanshuVer676/DSA/tree/master/2465-number-of-distinct-averages) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/HimanshuVer676/DSA/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/HimanshuVer676/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/HimanshuVer676/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/HimanshuVer676/DSA/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -138,6 +139,7 @@ It consist of basic to advance DSA questions and their solution
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/HimanshuVer676/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/HimanshuVer676/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2465-number-of-distinct-averages](https://github.com/HimanshuVer676/DSA/tree/master/2465-number-of-distinct-averages) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/HimanshuVer676/DSA/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/HimanshuVer676/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
@@ -156,6 +158,7 @@ It consist of basic to advance DSA questions and their solution
 | [1679-max-number-of-k-sum-pairs](https://github.com/HimanshuVer676/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/HimanshuVer676/DSA/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2465-number-of-distinct-averages](https://github.com/HimanshuVer676/DSA/tree/master/2465-number-of-distinct-averages) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/HimanshuVer676/DSA/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
 | ------- |
@@ -194,6 +197,7 @@ It consist of basic to advance DSA questions and their solution
 | [0646-maximum-length-of-pair-chain](https://github.com/HimanshuVer676/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/HimanshuVer676/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2465-number-of-distinct-averages](https://github.com/HimanshuVer676/DSA/tree/master/2465-number-of-distinct-averages) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/HimanshuVer676/DSA/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/HimanshuVer676/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/HimanshuVer676/DSA/tree/master/3467-transform-array-by-parity) |
 ## Monotonic Stack
