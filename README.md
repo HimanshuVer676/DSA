@@ -102,6 +102,7 @@ It consist of basic to advance DSA questions and their solution
 | [0560-subarray-sum-equals-k](https://github.com/HimanshuVer676/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0646-maximum-length-of-pair-chain](https://github.com/HimanshuVer676/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0735-asteroid-collision](https://github.com/HimanshuVer676/DSA/tree/master/0735-asteroid-collision) |
+| [0912-sort-an-array](https://github.com/HimanshuVer676/DSA/tree/master/0912-sort-an-array) |
 | [1470-shuffle-the-array](https://github.com/HimanshuVer676/DSA/tree/master/1470-shuffle-the-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/HimanshuVer676/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1929-concatenation-of-array](https://github.com/HimanshuVer676/DSA/tree/master/1929-concatenation-of-array) |
@@ -203,6 +204,7 @@ It consist of basic to advance DSA questions and their solution
 | [0268-missing-number](https://github.com/HimanshuVer676/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/HimanshuVer676/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/HimanshuVer676/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+| [0912-sort-an-array](https://github.com/HimanshuVer676/DSA/tree/master/0912-sort-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/HimanshuVer676/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2465-number-of-distinct-averages](https://github.com/HimanshuVer676/DSA/tree/master/2465-number-of-distinct-averages) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/HimanshuVer676/DSA/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -233,6 +235,7 @@ It consist of basic to advance DSA questions and their solution
 | [0148-sort-list](https://github.com/HimanshuVer676/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/HimanshuVer676/DSA/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HimanshuVer676/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/HimanshuVer676/DSA/tree/master/0912-sort-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -261,6 +264,7 @@ It consist of basic to advance DSA questions and their solution
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/HimanshuVer676/DSA/tree/master/0239-sliding-window-maximum) |
+| [0912-sort-an-array](https://github.com/HimanshuVer676/DSA/tree/master/0912-sort-an-array) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -426,6 +430,7 @@ It consist of basic to advance DSA questions and their solution
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/HimanshuVer676/DSA/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/HimanshuVer676/DSA/tree/master/0912-sort-an-array) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -456,4 +461,16 @@ It consist of basic to advance DSA questions and their solution
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/HimanshuVer676/DSA/tree/master/0560-subarray-sum-equals-k) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/HimanshuVer676/DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/HimanshuVer676/DSA/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/HimanshuVer676/DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
