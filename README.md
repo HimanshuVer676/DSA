@@ -98,6 +98,7 @@ It consist of basic to advance DSA questions and their solution
 | [0239-sliding-window-maximum](https://github.com/HimanshuVer676/DSA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HimanshuVer676/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/HimanshuVer676/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/HimanshuVer676/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/HimanshuVer676/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/HimanshuVer676/DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/HimanshuVer676/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -139,6 +140,7 @@ It consist of basic to advance DSA questions and their solution
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HimanshuVer676/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/HimanshuVer676/DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/HimanshuVer676/DSA/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/HimanshuVer676/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/HimanshuVer676/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/HimanshuVer676/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/HimanshuVer676/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -176,6 +178,7 @@ It consist of basic to advance DSA questions and their solution
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HimanshuVer676/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HimanshuVer676/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/HimanshuVer676/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/HimanshuVer676/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/HimanshuVer676/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/HimanshuVer676/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Math
@@ -285,6 +288,7 @@ It consist of basic to advance DSA questions and their solution
 | ------- |
 | [0141-linked-list-cycle](https://github.com/HimanshuVer676/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HimanshuVer676/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/HimanshuVer676/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
@@ -313,6 +317,7 @@ It consist of basic to advance DSA questions and their solution
 | [0078-subsets](https://github.com/HimanshuVer676/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/HimanshuVer676/DSA/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/HimanshuVer676/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/HimanshuVer676/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Tree
 |  |
 | ------- |
@@ -481,4 +486,8 @@ It consist of basic to advance DSA questions and their solution
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/HimanshuVer676/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/HimanshuVer676/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
