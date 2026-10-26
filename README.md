@@ -164,6 +164,7 @@ It consist of basic to advance DSA questions and their solution
 | [0349-intersection-of-two-arrays](https://github.com/HimanshuVer676/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/HimanshuVer676/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/HimanshuVer676/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0652-find-duplicate-subtrees](https://github.com/HimanshuVer676/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/HimanshuVer676/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/HimanshuVer676/DSA/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2465-number-of-distinct-averages](https://github.com/HimanshuVer676/DSA/tree/master/2465-number-of-distinct-averages) |
@@ -347,6 +348,7 @@ It consist of basic to advance DSA questions and their solution
 | [0543-diameter-of-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/HimanshuVer676/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/HimanshuVer676/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0938-range-sum-of-bst](https://github.com/HimanshuVer676/DSA/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0965-univalued-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/HimanshuVer676/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -371,6 +373,7 @@ It consist of basic to advance DSA questions and their solution
 | [0543-diameter-of-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/HimanshuVer676/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/HimanshuVer676/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0938-range-sum-of-bst](https://github.com/HimanshuVer676/DSA/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0965-univalued-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/HimanshuVer676/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -403,6 +406,7 @@ It consist of basic to advance DSA questions and their solution
 | [0543-diameter-of-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/HimanshuVer676/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/HimanshuVer676/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0938-range-sum-of-bst](https://github.com/HimanshuVer676/DSA/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/HimanshuVer676/DSA/tree/master/0965-univalued-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/HimanshuVer676/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
