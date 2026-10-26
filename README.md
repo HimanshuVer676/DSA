@@ -10,6 +10,7 @@ It consist of basic to advance DSA questions and their solution
 | [0022-generate-parentheses](https://github.com/HimanshuVer676/DSA/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/HimanshuVer676/DSA/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/HimanshuVer676/DSA/tree/master/0071-simplify-path) |
+| [0179-largest-number](https://github.com/HimanshuVer676/DSA/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/HimanshuVer676/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/HimanshuVer676/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/HimanshuVer676/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -92,6 +93,7 @@ It consist of basic to advance DSA questions and their solution
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HimanshuVer676/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HimanshuVer676/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/HimanshuVer676/DSA/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/HimanshuVer676/DSA/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/HimanshuVer676/DSA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HimanshuVer676/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/HimanshuVer676/DSA/tree/master/0217-contains-duplicate) |
@@ -204,6 +206,7 @@ It consist of basic to advance DSA questions and their solution
 | [0088-merge-sorted-array](https://github.com/HimanshuVer676/DSA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/HimanshuVer676/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/HimanshuVer676/DSA/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/HimanshuVer676/DSA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HimanshuVer676/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/HimanshuVer676/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/HimanshuVer676/DSA/tree/master/0242-valid-anagram) |
@@ -294,6 +297,7 @@ It consist of basic to advance DSA questions and their solution
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HimanshuVer676/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0179-largest-number](https://github.com/HimanshuVer676/DSA/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/HimanshuVer676/DSA/tree/master/0402-remove-k-digits) |
 | [0646-maximum-length-of-pair-chain](https://github.com/HimanshuVer676/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/HimanshuVer676/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
