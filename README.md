@@ -40,6 +40,7 @@ It consist of basic to advance DSA questions and their solution
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HimanshuVer676/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/HimanshuVer676/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/HimanshuVer676/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/HimanshuVer676/DSA/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/HimanshuVer676/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/HimanshuVer676/DSA/tree/master/0092-reverse-linked-list-ii) |
@@ -237,6 +238,7 @@ It consist of basic to advance DSA questions and their solution
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/HimanshuVer676/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HimanshuVer676/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HimanshuVer676/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HimanshuVer676/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -273,6 +275,7 @@ It consist of basic to advance DSA questions and their solution
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/HimanshuVer676/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HimanshuVer676/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/HimanshuVer676/DSA/tree/master/0239-sliding-window-maximum) |
 | [0912-sort-an-array](https://github.com/HimanshuVer676/DSA/tree/master/0912-sort-an-array) |
@@ -446,6 +449,7 @@ It consist of basic to advance DSA questions and their solution
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/HimanshuVer676/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/HimanshuVer676/DSA/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/HimanshuVer676/DSA/tree/master/0912-sort-an-array) |
 ## Binary Lifting
@@ -498,4 +502,8 @@ It consist of basic to advance DSA questions and their solution
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/HimanshuVer676/DSA/tree/master/0287-find-the-duplicate-number) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/HimanshuVer676/DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
