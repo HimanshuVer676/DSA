@@ -126,6 +126,7 @@ It consist of basic to advance DSA questions and their solution
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/HimanshuVer676/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/HimanshuVer676/DSA/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3467-transform-array-by-parity](https://github.com/HimanshuVer676/DSA/tree/master/3467-transform-array-by-parity) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/HimanshuVer676/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/HimanshuVer676/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/HimanshuVer676/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
@@ -205,6 +206,7 @@ It consist of basic to advance DSA questions and their solution
 | [0066-plus-one](https://github.com/HimanshuVer676/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/HimanshuVer676/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/HimanshuVer676/DSA/tree/master/0268-missing-number) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/HimanshuVer676/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/HimanshuVer676/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/HimanshuVer676/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/HimanshuVer676/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
