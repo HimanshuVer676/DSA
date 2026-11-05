@@ -117,6 +117,7 @@ It consist of basic to advance DSA questions and their solution
 | [1679-max-number-of-k-sum-pairs](https://github.com/HimanshuVer676/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1929-concatenation-of-array](https://github.com/HimanshuVer676/DSA/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/HimanshuVer676/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/HimanshuVer676/DSA/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2326-spiral-matrix-iv](https://github.com/HimanshuVer676/DSA/tree/master/2326-spiral-matrix-iv) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/HimanshuVer676/DSA/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2465-number-of-distinct-averages](https://github.com/HimanshuVer676/DSA/tree/master/2465-number-of-distinct-averages) |
@@ -296,6 +297,7 @@ It consist of basic to advance DSA questions and their solution
 | [0239-sliding-window-maximum](https://github.com/HimanshuVer676/DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/HimanshuVer676/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/HimanshuVer676/DSA/tree/master/0912-sort-an-array) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/HimanshuVer676/DSA/tree/master/2208-minimum-operations-to-halve-array-sum) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -322,6 +324,7 @@ It consist of basic to advance DSA questions and their solution
 | [0402-remove-k-digits](https://github.com/HimanshuVer676/DSA/tree/master/0402-remove-k-digits) |
 | [0646-maximum-length-of-pair-chain](https://github.com/HimanshuVer676/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/HimanshuVer676/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/HimanshuVer676/DSA/tree/master/2208-minimum-operations-to-halve-array-sum) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
