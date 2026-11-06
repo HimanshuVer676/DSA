@@ -1,13 +1,13 @@
 class Solution {
     public int gcdOfOddEvenSums(int n) {
-        int evenSum = 0;
-        int oddSum = 0;
-        int i=1;
-        while(i<=n){
-            evenSum += i*2;
-            oddSum += (i*2-1);
-            i++;
-        }
+        int evenSum = n * (n + 1);
+        int oddSum = n * n;
+        // int i=1;
+        // while(i<=n){
+        //     evenSum += i*2;
+        //     oddSum += (i*2-1);
+        //     i++;
+        // }
 
         int x = evenSum;
         int y = oddSum;
