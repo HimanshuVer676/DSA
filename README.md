@@ -112,6 +112,7 @@ It consist of basic to advance DSA questions and their solution
 | [0646-maximum-length-of-pair-chain](https://github.com/HimanshuVer676/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0735-asteroid-collision](https://github.com/HimanshuVer676/DSA/tree/master/0735-asteroid-collision) |
 | [0912-sort-an-array](https://github.com/HimanshuVer676/DSA/tree/master/0912-sort-an-array) |
+| [1331-rank-transform-of-an-array](https://github.com/HimanshuVer676/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/HimanshuVer676/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/HimanshuVer676/DSA/tree/master/1470-shuffle-the-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/HimanshuVer676/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -178,6 +179,7 @@ It consist of basic to advance DSA questions and their solution
 | [0387-first-unique-character-in-a-string](https://github.com/HimanshuVer676/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/HimanshuVer676/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0652-find-duplicate-subtrees](https://github.com/HimanshuVer676/DSA/tree/master/0652-find-duplicate-subtrees) |
+| [1331-rank-transform-of-an-array](https://github.com/HimanshuVer676/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/HimanshuVer676/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/HimanshuVer676/DSA/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2465-number-of-distinct-averages](https://github.com/HimanshuVer676/DSA/tree/master/2465-number-of-distinct-averages) |
@@ -231,6 +233,7 @@ It consist of basic to advance DSA questions and their solution
 | [0349-intersection-of-two-arrays](https://github.com/HimanshuVer676/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/HimanshuVer676/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0912-sort-an-array](https://github.com/HimanshuVer676/DSA/tree/master/0912-sort-an-array) |
+| [1331-rank-transform-of-an-array](https://github.com/HimanshuVer676/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/HimanshuVer676/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/HimanshuVer676/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2465-number-of-distinct-averages](https://github.com/HimanshuVer676/DSA/tree/master/2465-number-of-distinct-averages) |
