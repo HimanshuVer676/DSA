@@ -1,13 +1,23 @@
 class Trie {
 
+    // public class Node{
+    //     Node children[] = new Node[26];
+    //     boolean eow = false;
+
+    //     Node(){
+    //         for(int i=0; i<26; i++){
+    //             children[i] = null;
+    //         }
+    //     }
+    // }
+
     public class Node{
-        Node children[] = new Node[26];
-        boolean eow = false;
+        Node children[];
+        boolean eow;
 
         Node(){
-            for(int i=0; i<26; i++){
-                children[i] = null;
-            }
+            children = new Node[26];
+            eow = false;
         }
     }
 
