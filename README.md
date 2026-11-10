@@ -12,6 +12,7 @@ It consist of basic to advance DSA questions and their solution
 | [0071-simplify-path](https://github.com/HimanshuVer676/DSA/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/HimanshuVer676/DSA/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/HimanshuVer676/DSA/tree/master/0179-largest-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/HimanshuVer676/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/HimanshuVer676/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/HimanshuVer676/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/HimanshuVer676/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -174,6 +175,7 @@ It consist of basic to advance DSA questions and their solution
 | [0141-linked-list-cycle](https://github.com/HimanshuVer676/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HimanshuVer676/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/HimanshuVer676/DSA/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/HimanshuVer676/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/HimanshuVer676/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/HimanshuVer676/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/HimanshuVer676/DSA/tree/master/0268-missing-number) |
@@ -286,6 +288,7 @@ It consist of basic to advance DSA questions and their solution
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/HimanshuVer676/DSA/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/HimanshuVer676/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/HimanshuVer676/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/HimanshuVer676/DSA/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
@@ -540,4 +543,8 @@ It consist of basic to advance DSA questions and their solution
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/HimanshuVer676/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/HimanshuVer676/DSA/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
