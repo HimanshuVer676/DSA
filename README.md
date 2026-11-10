@@ -10,6 +10,7 @@ It consist of basic to advance DSA questions and their solution
 | [0022-generate-parentheses](https://github.com/HimanshuVer676/DSA/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/HimanshuVer676/DSA/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/HimanshuVer676/DSA/tree/master/0071-simplify-path) |
+| [0125-valid-palindrome](https://github.com/HimanshuVer676/DSA/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/HimanshuVer676/DSA/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/HimanshuVer676/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/HimanshuVer676/DSA/tree/master/0344-reverse-string) |
@@ -147,6 +148,7 @@ It consist of basic to advance DSA questions and their solution
 | [0027-remove-element](https://github.com/HimanshuVer676/DSA/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/HimanshuVer676/DSA/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/HimanshuVer676/DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/HimanshuVer676/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/HimanshuVer676/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HimanshuVer676/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/HimanshuVer676/DSA/tree/master/0148-sort-list) |
