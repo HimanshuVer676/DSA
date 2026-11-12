@@ -115,6 +115,7 @@ It consist of basic to advance DSA questions and their solution
 | [0560-subarray-sum-equals-k](https://github.com/HimanshuVer676/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0646-maximum-length-of-pair-chain](https://github.com/HimanshuVer676/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0735-asteroid-collision](https://github.com/HimanshuVer676/DSA/tree/master/0735-asteroid-collision) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/HimanshuVer676/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/HimanshuVer676/DSA/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/HimanshuVer676/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/HimanshuVer676/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -206,6 +207,7 @@ It consist of basic to advance DSA questions and their solution
 | [0268-missing-number](https://github.com/HimanshuVer676/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/HimanshuVer676/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/HimanshuVer676/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/HimanshuVer676/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/HimanshuVer676/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/HimanshuVer676/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Math
@@ -551,4 +553,8 @@ It consist of basic to advance DSA questions and their solution
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/HimanshuVer676/DSA/tree/master/0208-implement-trie-prefix-tree) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/HimanshuVer676/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
