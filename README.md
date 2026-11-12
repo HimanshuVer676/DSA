@@ -131,6 +131,7 @@ It consist of basic to advance DSA questions and their solution
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/HimanshuVer676/DSA/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/HimanshuVer676/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/HimanshuVer676/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2951-find-the-peaks](https://github.com/HimanshuVer676/DSA/tree/master/2951-find-the-peaks) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/HimanshuVer676/DSA/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3467-transform-array-by-parity](https://github.com/HimanshuVer676/DSA/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/HimanshuVer676/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -557,4 +558,8 @@ It consist of basic to advance DSA questions and their solution
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/HimanshuVer676/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+## Enumeration
+|  |
+| ------- |
+| [2951-find-the-peaks](https://github.com/HimanshuVer676/DSA/tree/master/2951-find-the-peaks) |
 <!---LeetCode Topics End-->
