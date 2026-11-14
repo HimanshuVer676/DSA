@@ -6,6 +6,7 @@ It consist of basic to advance DSA questions and their solution
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/HimanshuVer676/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/HimanshuVer676/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/HimanshuVer676/DSA/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/HimanshuVer676/DSA/tree/master/0058-length-of-last-word) |
@@ -74,6 +75,7 @@ It consist of basic to advance DSA questions and their solution
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HimanshuVer676/DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/HimanshuVer676/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HimanshuVer676/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HimanshuVer676/DSA/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HimanshuVer676/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -553,6 +555,7 @@ It consist of basic to advance DSA questions and their solution
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/HimanshuVer676/DSA/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/HimanshuVer676/DSA/tree/master/0208-implement-trie-prefix-tree) |
 ## Ternary Search
 |  |
