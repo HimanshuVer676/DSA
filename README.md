@@ -19,6 +19,7 @@ It consist of basic to advance DSA questions and their solution
 | [0387-first-unique-character-in-a-string](https://github.com/HimanshuVer676/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/HimanshuVer676/DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/HimanshuVer676/DSA/tree/master/0402-remove-k-digits) |
+| [0720-longest-word-in-dictionary](https://github.com/HimanshuVer676/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/HimanshuVer676/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HimanshuVer676/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/HimanshuVer676/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -116,6 +117,7 @@ It consist of basic to advance DSA questions and their solution
 | [0485-max-consecutive-ones](https://github.com/HimanshuVer676/DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/HimanshuVer676/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0646-maximum-length-of-pair-chain](https://github.com/HimanshuVer676/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+| [0720-longest-word-in-dictionary](https://github.com/HimanshuVer676/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0735-asteroid-collision](https://github.com/HimanshuVer676/DSA/tree/master/0735-asteroid-collision) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/HimanshuVer676/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/HimanshuVer676/DSA/tree/master/0912-sort-an-array) |
@@ -190,6 +192,7 @@ It consist of basic to advance DSA questions and their solution
 | [0387-first-unique-character-in-a-string](https://github.com/HimanshuVer676/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/HimanshuVer676/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0652-find-duplicate-subtrees](https://github.com/HimanshuVer676/DSA/tree/master/0652-find-duplicate-subtrees) |
+| [0720-longest-word-in-dictionary](https://github.com/HimanshuVer676/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [1331-rank-transform-of-an-array](https://github.com/HimanshuVer676/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/HimanshuVer676/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/HimanshuVer676/DSA/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -246,6 +249,7 @@ It consist of basic to advance DSA questions and their solution
 | [0347-top-k-frequent-elements](https://github.com/HimanshuVer676/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/HimanshuVer676/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/HimanshuVer676/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+| [0720-longest-word-in-dictionary](https://github.com/HimanshuVer676/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0912-sort-an-array](https://github.com/HimanshuVer676/DSA/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/HimanshuVer676/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/HimanshuVer676/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -557,6 +561,7 @@ It consist of basic to advance DSA questions and their solution
 | ------- |
 | [0014-longest-common-prefix](https://github.com/HimanshuVer676/DSA/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/HimanshuVer676/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0720-longest-word-in-dictionary](https://github.com/HimanshuVer676/DSA/tree/master/0720-longest-word-in-dictionary) |
 ## Ternary Search
 |  |
 | ------- |
